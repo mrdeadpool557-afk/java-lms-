@@ -1,0 +1,5 @@
+{
+  "name": "LMS Demo Pro",
+  "description": "A comprehensive demo-level Learning Management System with instructor and student dashboards, course management, and mock payment flows.",
+  "requestFramePermissions": []
+}
